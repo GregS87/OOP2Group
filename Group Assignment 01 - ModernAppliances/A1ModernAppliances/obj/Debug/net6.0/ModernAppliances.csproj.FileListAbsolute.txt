@@ -1,0 +1,15 @@
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Greg Schultz\Desktop\Third Semester\Object Oriented Programing 2\Group Assignment Classes and Inheritance\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
